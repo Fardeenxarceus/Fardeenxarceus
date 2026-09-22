@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Md Fardeen </h1>
+<h1 align="center">Hi 👋, I'm Md Fardeen</h1>
 
 <h3 align="center">Aspiring Cloud & DevOps Engineer | Linux | AWS | Docker | CI/CD</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaikhmdfaiz979&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Fardeenxarceaus&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -42,15 +42,15 @@ EC2 IAM VPC S3 CloudFront ECR ECS Fargate ALB Security Groups
 <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="RHEL" width="50" height="50"/>
 </a>
-
+&ensp;
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
 </a>
-
+&ensp;
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </a>
-
+&ensp;
 <a href="https://github.com/features/actions" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="50"/>
 </a>
@@ -67,23 +67,23 @@ Linux RHEL Docker Git GitHub GitHub Actions CI/CD AWS CLI Bash
 <a href="https://www.w3.org/html/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
 </a>
-
+&ensp;
 <a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </a>
-
+&ensp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </a>
-
+&ensp;
 <a href="https://www.php.net/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </a>
-
+&ensp;
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
-
+&ensp;
 <a href="https://getbootstrap.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 </a>
@@ -122,7 +122,7 @@ S3 → CloudFront → Origin Access Control (OAC)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Fardeenxarceus&show_icons=true&locale=en" alt="GitHub Stats"/>
 </p>
-
+&ensp;
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fardeenxarceus" alt="GitHub Streak"/>
 </p>
@@ -136,8 +136,8 @@ S3 → CloudFront → Origin Access Control (OAC)
 <a href="https://github.com/Fardeenxarceus" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </a>
-
-<a href="mailto:https://github.com/Fardeenxarceus">
+&ensp;
+<a href="mailto:mdfardeenalam9818@gmail.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
 </a>
 
@@ -147,7 +147,9 @@ S3 → CloudFront → Origin Access Control (OAC)
 
 ### 🎯 2026 Learning Goals
 
-- [x] Linux & RHEL fundamentals
+- [x] VMware, Virtualization
+- [x] Linux & RHEL & Ubuntu
+- [x] Completed RHCSA
 - [x] AWS fundamentals
 - [x] Docker fundamentals
 - [x] Amazon ECR
