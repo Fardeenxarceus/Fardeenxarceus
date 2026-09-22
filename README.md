@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Faiz</h1>
+<h1 align="center">Hi 👋, I'm Md Fardeen </h1>
 
 <h3 align="center">Aspiring Cloud & DevOps Engineer | Linux | AWS | Docker | CI/CD</h3>
 
