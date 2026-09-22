@@ -18,7 +18,7 @@
 - 🚀 Hands-on with AWS ECR, ECS/Fargate and Application Load Balancer
 - 🔐 Practicing secure cloud hosting with S3 + CloudFront + OAC
 - 🌱 Continuously learning Cloud, DevOps, Automation and Linux Administration
-- 📫 Reach me at shaikhmdfaiz979@gmail.com
+- 📫 Reach me at mdfardeenalam9818@gmail.com
 - ⚡️ Fun fact: I think I'm funny 😄
 
 ---
